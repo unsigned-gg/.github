@@ -1,6 +1,6 @@
 # Community Standards & Code of Conduct
 
-> **Organization:** [unsigned](https://unsigned.gg) · [Zero Days](https://zerodays.io)  
+> **Organization:** [unsigned](https://unsigned.gg) - [Zero Days](https://zerodays.io)  
 > **Status:** Active Community Constitution  
 > **License:** Dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -28,7 +28,7 @@ We foster an environment where rigorous debate, fearless technical inquiry, and 
 * **Blameless Retrospectives:** When systems fail or incidents occur, we investigate root causes mechanically without assigning personal blame.
 
 ### Respect, Inclusivity, and Anti-Harassment
-* **Dignity for All:** Every contributor—regardless of experience level, background, identity, or geographic origin—deserves fundamental human dignity and respect.
+* **Dignity for All:** Every contributor--regardless of experience level, background, identity, or geographic origin--deserves fundamental human dignity and respect.
 * **Zero Tolerance for Coercion or Harassment:** We strictly prohibit harassment, exclusionary language, trolling, personal attacks, and discriminatory behavior.
 * **No Unwanted Advances:** Respect boundaries across all communication channels, forums, pull requests, and chat meshes.
 

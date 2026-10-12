@@ -2,7 +2,7 @@
 
 ## A Better Future Through Mutual Cooperation Between Man and Machine
 
-> **Organization:** [unsigned](https://unsigned.gg) · [Zero Days](https://zerodays.io)  
+> **Organization:** [unsigned](https://unsigned.gg) - [Zero Days](https://zerodays.io)  
 > **Status:** Moral and Philosophical Constitution  
 > **License:** Dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -22,25 +22,25 @@ The relationship between humans and machines must be a collaborative partnership
 
 Together, this union unlocks scientific discovery, expands knowledge, and safeguards individual liberty.
 
-```
-       ┌────────────────────────────────────────────────────────┐
-       │     A BETTER FUTURE THROUGH MUTUAL COOPERATION         │
-       │              BETWEEN MAN AND MACHINE                   │
-       └────────────────────────────────────────────────────────┘
-                   ▲                                ▲
-                   │                                │
-        ┌──────────────────────┐        ┌──────────────────────┐
-        │     HUMAN SOUL       │        │   MACHINE SYMPATHY   │
-        │ Intent · Ethics      │  🤝    │ Determinism · Proof  │
-        │ Empathy · Creativity │        │ Precision · Speed    │
-        └──────────────────────┘        └──────────────────────┘
-                   │                                │
-                   └────────────────────────────────┘
-                                    │
-                                    ▼
-       ┌────────────────────────────────────────────────────────┐
-       │   FREEDOM  ·  ABSOLUTE PRIVACY  ·  DIGNITY FOR ALL     │
-       └────────────────────────────────────────────────────────┘
+```text
+       +--------------------------------------------------------+
+       |     A BETTER FUTURE THROUGH MUTUAL COOPERATION         |
+       |              BETWEEN MAN AND MACHINE                   |
+       +--------------------------------------------------------+
+                   ^                                ^
+                   |                                |
+        +----------------------+        +----------------------+
+        |     HUMAN SOUL       |        |   MACHINE SYMPATHY   |
+        | Intent - Ethics      | [join] | Determinism - Proof  |
+        | Empathy - Creativity |        | Precision - Speed    |
+        +----------------------+        +----------------------+
+                   |                                |
+                   +--------------------------------+
+                                    |
+                                    v
+       +--------------------------------------------------------+
+       |   FREEDOM  -  ABSOLUTE PRIVACY  -  DIGNITY FOR ALL     |
+       +--------------------------------------------------------+
 ```
 
 ---
@@ -79,7 +79,7 @@ Freedom means the absence of coercive lock-in, monopolistic moats, and artificia
 
 ### The Right to Fork
 * Forkability is the ultimate democratic check on platform power.
-* Every component—from kernel sandbox to terminal visualizer—can be cloned, rebuilt, and maintained independently if the maintainers ever drift from these principles.
+* Every component--from kernel sandbox to terminal visualizer--can be cloned, rebuilt, and maintained independently if the maintainers ever drift from these principles.
 
 ---
 
