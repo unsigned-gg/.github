@@ -51,16 +51,27 @@ Anyone can inspect, fork, host, and adapt this work without restriction.
 
 ## Core Ecosystem
 
-### Process Supervision, Runtimes, and Tooling
-* **[kd](https://github.com/unsigned-gg/kd):** Pure-Rust Linux process supervisor using `pidfd` handles and epoll for zombie-free execution.
-* **[dgr](https://github.com/unsigned-gg/dgr):** Terminal graph viewer for real-time autonomous agent workflow visualization.
-* **[uas](https://github.com/unsigned-gg/uas):** Unsigned Agent Substrate — pooled harness runtime with zero-I/O domain layering.
+### Orchestration & Control Plane
 * **[k8](https://github.com/unsigned-gg/k8):** Kubernetes-native agent orchestrator and workload controller for autonomous fleets.
-* **[ep](https://github.com/unsigned-gg/ep):** Metered, deterministic dispatch engine and event reactor for autonomous agent constellations.
-* **[dc](https://github.com/unsigned-gg/dc):** Dark compute runner and headless executor for autonomous dark factories.
 * **[gs](https://github.com/unsigned-gg/gs):** Godseat control surface governing perception before action and policy gate tiers.
+* **[dgr](https://github.com/unsigned-gg/dgr):** Terminal graph viewer for real-time autonomous agent workflow visualization.
+* **[herdr](https://github.com/unsigned-gg/herdr):** Autonomous agent session runtime, process coordination, and streaming TTY multiplexer.
+
+### Substrates & Formal Specifications
+* **[uas](https://github.com/unsigned-gg/uas):** Unsigned Agent Substrate — pooled harness runtime with zero-I/O domain layering.
+* **[ls](https://github.com/unsigned-gg/ls):** LeanSpec formal specification engine: zero-I/O AST parser, structural validator, and CAS listing.
+
+### Sandboxing & Kernel Confinement
+* **[kl](https://github.com/unsigned-gg/kl):** Kernel Layer primitives: pure-Rust Landlock LSM rulesets, seccomp BPF syscall filtering, and namespace containment.
+* **[sbx](https://crates.io/crates/sbx):** AI containment layer and syscall jail with reversible run custody records in Rust.
+* **[reach](https://github.com/unsigned-gg/reach):** AI-drivable containerized desktop sandbox.
+
+### Process Supervision & Systems Core
+* **[kd](https://github.com/unsigned-gg/kd):** Pure-Rust Linux process supervisor using `pidfd` handles and epoll for zombie-free execution.
+
+### Deterministic Dispatch & Scheduling
+* **[ep](https://github.com/unsigned-gg/ep):** Metered, deterministic dispatch engine and event reactor for autonomous agent constellations.
 * **[wak](https://github.com/unsigned-gg/wak):** Accept-and-hold TCP wake proxy and idle reaper for scale-to-zero workloads.
-* **[sbx](https://github.com/unsigned-gg/sbx):** AI containment layer and syscall jail with reversible run custody records.
 
 ### Curated Ecosystem Index
 * **[awesome](https://github.com/unsigned-gg/awesome):** The curated catalog of autonomous agent orchestrators, systems runtimes, and machine sympathy research.
