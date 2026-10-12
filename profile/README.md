@@ -2,13 +2,15 @@
 
 **Open systems, machine sympathy, and autonomous swarm governance.**
 
+> *"A better future through mutual cooperation between man and machine."*
+
 [unsigned.gg](https://unsigned.gg) · [Zero Days](https://zerodays.io)
 
 ---
 
 ## Mission and Charter
 
-The **unsigned** organization exists to test agent swarm control, governance, and security.
+The **unsigned** organization exists to test agent swarm control, governance, and security in production environments.
 We conduct rigorous research into machine sympathy, systems security, and mathematical- and engineering-driven development.
 All research, specifications, and code developed in this organization remain permanently in the public domain.
 
@@ -38,10 +40,19 @@ Anyone can inspect, fork, host, and adapt this work without restriction.
 
 ---
 
+## Constitution & Community Charters
+
+* **[Commitments to Privacy, Freedom, and Dignity](https://github.com/unsigned-gg/.github/blob/main/PRIVACY_FREEDOM_DIGNITY.md):** Our pledge to absolute privacy, local-first computing, zero telemetry, and mutual cooperation between man and machine.
+* **[Guiding Principles, Mottos & Northstars](https://github.com/unsigned-gg/.github/blob/main/GUIDING_PRINCIPLES.md):** The engineering doctrine, Northstars, and seven foundational principles of the unsigned stack.
+* **[Community Standards & Code of Conduct](https://github.com/unsigned-gg/.github/blob/main/COMMUNITY_STANDARDS.md):** Standards of conduct, intellectual honesty, mutual respect, and psychological safety for all contributors.
+* **[Brand Voice & Communication Style](https://github.com/unsigned-gg/.github/blob/main/BRAND_VOICE.md):** The Cat B hacker register, Simplified Technical English (ASD-STE100), and Clockwork Swarm communication rules.
+
+---
+
 ## Core Ecosystem
 
 ### Process Supervision, Runtimes, and Tooling
-* **[kd](https://github.com/unsigned-gg/kd):** Pure-Rust Linux process supervisor using `pidfd` handles and epoll.
+* **[kd](https://github.com/unsigned-gg/kd):** Pure-Rust Linux process supervisor using `pidfd` handles and epoll for zombie-free execution.
 * **[dgr](https://github.com/unsigned-gg/dgr):** Terminal graph viewer for real-time autonomous agent workflow visualization.
 * **[uas](https://github.com/unsigned-gg/uas):** Unsigned Agent Substrate — pooled harness runtime with zero-I/O domain layering.
 * **[k8](https://github.com/unsigned-gg/k8):** Kubernetes-native agent orchestrator and workload controller for autonomous fleets.
