@@ -56,10 +56,11 @@ Anyone can inspect, fork, host, and adapt this work without restriction.
 * **[dgr](https://github.com/unsigned-gg/dgr):** Terminal graph viewer for real-time autonomous agent workflow visualization.
 * **[uas](https://github.com/unsigned-gg/uas):** Unsigned Agent Substrate — pooled harness runtime with zero-I/O domain layering.
 * **[k8](https://github.com/unsigned-gg/k8):** Kubernetes-native agent orchestrator and workload controller for autonomous fleets.
-* **[herdr](https://github.com/unsigned-gg/herdr):** Multi-agent session and pane orchestration runtime without tmux dependencies.
-* **[omp](https://github.com/unsigned-gg/omp):** High-speed terminal coding agent with hash-anchored edits and LSP integration.
+* **[ep](https://github.com/unsigned-gg/ep):** Metered, deterministic dispatch engine and event reactor for autonomous agent constellations.
+* **[dc](https://github.com/unsigned-gg/dc):** Dark compute runner and headless executor for autonomous dark factories.
+* **[gs](https://github.com/unsigned-gg/gs):** Godseat control surface governing perception before action and policy gate tiers.
+* **[wak](https://github.com/unsigned-gg/wak):** Accept-and-hold TCP wake proxy and idle reaper for scale-to-zero workloads.
 * **[sbx](https://github.com/unsigned-gg/sbx):** AI containment layer and syscall jail with reversible run custody records.
-* **[escapement](https://github.com/unsigned-gg/escapement):** Metered, deterministic dispatch engine for autonomous agent swarms.
 
 ### Curated Ecosystem Index
 * **[awesome](https://github.com/unsigned-gg/awesome):** The curated catalog of autonomous agent orchestrators, systems runtimes, and machine sympathy research.
