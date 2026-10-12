@@ -2,9 +2,11 @@
 
 **Open systems, machine sympathy, and autonomous swarm governance.**
 
-> *"A better future through mutual cooperation between man and machine."*
+> *"A better future through mutual cooperation between man and machine."*  
+> *"Priced like plumbing, unencumbered by design."*  
+> *"Respect the silicon. Protect the human."*  
 
-[unsigned.gg](https://unsigned.gg) · [Zero Days](https://zerodays.io)
+[unsigned.gg](https://unsigned.gg) - [Zero Days](https://zerodays.io)
 
 ---
 
@@ -58,7 +60,7 @@ Anyone can inspect, fork, host, and adapt this work without restriction.
 * **[herdr](https://github.com/unsigned-gg/herdr):** Autonomous agent session runtime, process coordination, and streaming TTY multiplexer.
 
 ### Substrates & Formal Specifications
-* **[uas](https://github.com/unsigned-gg/uas):** Unsigned Agent Substrate — pooled harness runtime with zero-I/O domain layering.
+* **[uas](https://github.com/unsigned-gg/uas):** Unsigned Agent Substrate -- pooled harness runtime with zero-I/O domain layering.
 * **[ls](https://github.com/unsigned-gg/ls):** LeanSpec formal specification engine: zero-I/O AST parser, structural validator, and CAS listing.
 
 ### Sandboxing & Kernel Confinement
@@ -71,10 +73,12 @@ Anyone can inspect, fork, host, and adapt this work without restriction.
 
 ### Deterministic Dispatch & Scheduling
 * **[ep](https://github.com/unsigned-gg/ep):** Metered, deterministic dispatch engine and event reactor for autonomous agent constellations.
+* **[dc](https://github.com/unsigned-gg/dc):** Dark compute runner and headless executor for autonomous dark factories.
 * **[wak](https://github.com/unsigned-gg/wak):** Accept-and-hold TCP wake proxy and idle reaper for scale-to-zero workloads.
 
 ### Curated Ecosystem Index
 * **[awesome](https://github.com/unsigned-gg/awesome):** The curated catalog of autonomous agent orchestrators, systems runtimes, and machine sympathy research.
+* Refer to [awesome](https://github.com/unsigned-gg/awesome) for the exhaustive 2-letter and 3-letter crate matrix.
 
 ---
 

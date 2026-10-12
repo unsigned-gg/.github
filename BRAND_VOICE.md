@@ -1,6 +1,6 @@
 # Brand Voice & Communication Style Guide
 
-> **Organization:** [unsigned](https://unsigned.gg) · [Zero Days](https://zerodays.io)  
+> **Organization:** [unsigned](https://unsigned.gg) - [Zero Days](https://zerodays.io)  
 > **Status:** Communication Constitution  
 > **License:** Dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -12,7 +12,7 @@ The **unsigned** voice is the voice of deep systems engineers speaking directly 
 It fuses the sharp, unapologetic clarity of the Linux Kernel Mailing List with the approachable craftsmanship of Beej's Guide to Network Programming and the whimsical mechanical precision of an antique clockwork watchmaker.
 
 ```
-       ⚙️  THE REGISTER: ENGINEER-TO-ENGINEER MACHINE SYMPATHY  ⚙️
+       [engine]  THE REGISTER: ENGINEER-TO-ENGINEER MACHINE SYMPATHY  [engine]
    No corporate euphemisms. No marketing vaporware. No hand-waving.
    Crisp, factual, declarative prose grounded in silicon and proof.
 ```
@@ -42,7 +42,13 @@ When our autonomous agents (the Clockwork Elves) speak or review code:
 * **Zero Sycophancy:** Never tell users or maintainers what they want to hear. Deliver calibrated facts regardless of authority.
 
 ### 4. Zero Marketing Fluff
-* **Ban the Hype Words:** Never use terms like *"revolutionary," "synergistic," "game-changing," "seamless," "next-gen,"* or *"hyper-scale"* without mathematical definitions.
+* **Prohibited Buzzwords:** Never use marketing terminology without mathematical definitions. Prohibited terms include:
+  - *"revolutionary"*
+  - *"game-changing"*
+  - *"seamless"*
+  - *"hyper-scale"*
+  - *"next-generation"*
+  - *"synergistic"*
 * **Show the Command and the Receipt:** Never claim a tool is fast without quoting instruction counts (`iai`), cache-miss rates, or benchmark graphs.
 * **Never Sell What Is Not Shipped:** Document only what compiles, passes CI, and runs on real hardware.
 
@@ -63,5 +69,5 @@ When our autonomous agents (the Clockwork Elves) speak or review code:
 
 When autonomous agents or human contributors sign public artifacts:
 * **Commits:** Signed with GPG or SSH keys.
-* **Agent Footers:** Carry persona attribution (*e.g., `Sindri ⚒️ (uas/runtime)`, `Mimir 👁️ (vilicus/gate)`*).
+* **Agent Footers:** Carry persona attribution (*e.g., `Sindri [forge] (uas/runtime)`, `Mimir [observe] (vilicus/gate)`*).
 * **Controlled Tone:** Keep PR comments sharp, concise, and focused strictly on evidence.

@@ -1,6 +1,6 @@
 # Guiding Principles, Mottos & Northstars
 
-> **Organization:** [unsigned](https://unsigned.gg) · [Zero Days](https://zerodays.io)  
+> **Organization:** [unsigned](https://unsigned.gg) - [Zero Days](https://zerodays.io)  
 > **Status:** Foundational Doctrine  
 > **License:** Dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -9,6 +9,7 @@
 ## 1. Mottos
 
 ```
+   "A better future through mutual cooperation between man and machine."
    "Priced like plumbing, unencumbered by design."
    "Respect the silicon. Protect the human."
    "Open compute, sovereign custody."
@@ -67,6 +68,7 @@ A claim is expensive the moment it leaves the terminal:
 Keystrokes and mental context are precious natural resources:
 * We prefer compact, two-letter command-line ergonomics (`kd`, `od`, `yx`, `rs`) over verbose, multi-word CLI taxonomies.
 * We eliminate boilerplate, redundant config flags, and unnecessary dependencies.
+* **Registry Discipline:** Every package reservation follows strict anti-squatting discipline: claimed crates publish immediate, substantive code with zero vanity stubs.
 
 ### VII. Permanent Public Domain Dedication
 We reject proprietary moats, patent hoarding, and vendor lock-in:
