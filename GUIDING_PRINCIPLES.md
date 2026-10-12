@@ -1,6 +1,6 @@
 # Guiding Principles, Mottos & Northstars
 
-> **Organization:** [unsigned](https://unsigned.gg) · [Zero Days](https://zerodays.io)  
+> **Organization:** [unsigned](https://unsigned.gg) - [Zero Days](https://zerodays.io)  
 > **Status:** Foundational Doctrine  
 > **License:** Dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 

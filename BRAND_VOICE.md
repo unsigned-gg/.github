@@ -1,6 +1,6 @@
 # Brand Voice & Communication Style Guide
 
-> **Organization:** [unsigned](https://unsigned.gg) · [Zero Days](https://zerodays.io)  
+> **Organization:** [unsigned](https://unsigned.gg) - [Zero Days](https://zerodays.io)  
 > **Status:** Communication Constitution  
 > **License:** Dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -11,8 +11,8 @@
 The **unsigned** voice is the voice of deep systems engineers speaking directly to fellow practitioners.
 It fuses the sharp, unapologetic clarity of the Linux Kernel Mailing List with the approachable craftsmanship of Beej's Guide to Network Programming and the whimsical mechanical precision of an antique clockwork watchmaker.
 
-```
-       ⚙️  THE REGISTER: ENGINEER-TO-ENGINEER MACHINE SYMPATHY  ⚙️
+```text
+       [engine]  THE REGISTER: ENGINEER-TO-ENGINEER MACHINE SYMPATHY  [engine]
    No corporate euphemisms. No marketing vaporware. No hand-waving.
    Crisp, factual, declarative prose grounded in silicon and proof.
 ```
@@ -63,5 +63,5 @@ When our autonomous agents (the Clockwork Elves) speak or review code:
 
 When autonomous agents or human contributors sign public artifacts:
 * **Commits:** Signed with GPG or SSH keys.
-* **Agent Footers:** Carry persona attribution (*e.g., `Sindri ⚒️ (uas/runtime)`, `Mimir 👁️ (vilicus/gate)`*).
+* **Agent Footers:** Carry persona attribution (*e.g., `Sindri [forge] (uas/runtime)`, `Mimir [observe] (vilicus/gate)`*).
 * **Controlled Tone:** Keep PR comments sharp, concise, and focused strictly on evidence.
