@@ -8,7 +8,7 @@
 
 ## 1. Mottos
 
-```
+```text
    "Priced like plumbing, unencumbered by design."
    "Respect the silicon. Protect the human."
    "Open compute, sovereign custody."
@@ -36,39 +36,53 @@ Our engineering decisions orient around four permanent Northstars:
 ## 3. The Seven Guiding Principles
 
 ### I. Machine Sympathy Over Synthetic Fluff
+
 We write software with visceral respect for the metal:
+
 * We favor Linux kernel-native primitives (`pidfd`, `io_uring`, Landlock LSM, eBPF) over synthetic user-space abstraction layers.
 * We structure domain logic as zero-allocation, zero-I/O state machines.
 * We treat CPU cache lines, memory alignment, and register allocation as primary design concerns.
 
 ### II. Soundness Always Trumps Speed
+
 When performance optimizations conflict with mathematical soundness:
+
 * Soundness wins unconditionally.
 * We refuse raw pointer tricks, lock-free hacks, or undefined behaviors that fail Miri verification or lack formal inductive safety proofs.
 * Speed earned by breaking correctness is not an optimization; it is technical debt disguised as throughput.
 
 ### III. Build What We Would Rent
+
 We do not build speculative products or enterprise vanity features:
+
 * We engineer the exact tools, runtimes, and infrastructure we require to run our own autonomous development swarms.
 * We dogfood our kernels, supervisors, and CLIs under real production strain every day.
 
 ### IV. Mechanical Gates Over Social Consensus
+
 Human review is essential for intent, but safety must be mechanical:
+
 * Invariant checks, linter rules, memory bounds, and escape tests must be enforced by automated juries.
 * If a test cannot fail, it proves nothing. If a policy requires human memory to enforce, it is broken.
 
 ### V. Deterministic Evidence Over Subjective Claims
+
 A claim is expensive the moment it leaves the terminal:
+
 * We replace wall-clock microbenchmarks with instruction-count profiling (`iai`).
 * We replace arbitrary `sleep()` loops with model-checked state-space reachability (`stateright`).
 * We calibrate every assertion to reproducible evidence.
 
 ### VI. Radical Simplicity and Ergonomics
+
 Keystrokes and mental context are precious natural resources:
+
 * We prefer compact, two-letter command-line ergonomics (`kd`, `od`, `yx`, `rs`) over verbose, multi-word CLI taxonomies.
 * We eliminate boilerplate, redundant config flags, and unnecessary dependencies.
 
 ### VII. Permanent Public Domain Dedication
+
 We reject proprietary moats, patent hoarding, and vendor lock-in:
+
 * All research, specifications, and code remain in the public domain under CC0 1.0 Universal.
 * If an engineer or organization leaves our platform, they take everything: their data, their configurations, their weights, and their freedom.
